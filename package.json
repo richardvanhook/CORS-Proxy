@@ -1,7 +1,8 @@
 {
   "name": "corsproxy",
   "dependencies": {
-    "http-proxy"    : "~0.8"
+    "http-proxy"    : "~0.8",
+    "underscore": "1.4.2"
   },
   "engines": {
     "node": "0.6.x",
